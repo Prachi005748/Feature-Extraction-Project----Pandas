@@ -23,12 +23,12 @@ Welcome to the Feature Extraction Project! This notebook showcases how to use *P
 ---
 
 ## 🚀 Getting Started
-- 1. Clone the repository:
+1. Clone the repository:
    `bash
    git clone https://github.com/Prachi005748/Feature-Extraction-Project----Pandas.git
    `
-- 2. Open the notebook in Jupyter or any compatible IDE.
-- 3.  Run the cells step-by-step and explore the dataset.
+   2. Open the notebook in Jupyter or any compatible IDE.
+   3. 3.  Run the cells step-by-step and explore the dataset.
 
 ---
 
@@ -62,8 +62,8 @@ Feel free to fork the repo, suggest improvements, or add new feature extraction 
 
 - *Created by*: Prachi Paliwal  
 - *GitHub*: [Prachi005748](https://github.com/Prachi005748)  
-- *LinkedIn*: [Prachi Paliwal](https://www.linkedin.com/in/prachi-paliwal-799126268/) 
-For feedback or collaboration, open an issue or drop a pull request.
+- *LinkedIn*: [Prachi Paliwal](https://www.linkedin.com/in/prachi-paliwal-799126268/)
+- For feedback or collaboration, open an issue or drop a pull request.
 
 ---
 
