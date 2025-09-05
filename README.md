@@ -23,12 +23,12 @@ Welcome to the Feature Extraction Project! This notebook showcases how to use *P
 ---
 
 ## 🚀 Getting Started
-1. Clone the repository:
+- 1. Clone the repository:
    `bash
    git clone https://github.com/Prachi005748/Feature-Extraction-Project----Pandas.git
    `
-   2. Open the notebook in Jupyter or any compatible IDE.
-   3. 3.  Run the cells step-by-step and explore the dataset.
+- 2. Open the notebook in Jupyter or any compatible IDE.
+- 3.  Run the cells step-by-step and explore the dataset.
 
 ---
 
