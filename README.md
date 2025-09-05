@@ -72,7 +72,3 @@ Feel free to fork the repo, suggest improvements, or add new feature extraction 
 This project is open-source and available under the MIT License.
 
 `
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Prachi005748/Feature-Extraction-Project----Pandas.git
